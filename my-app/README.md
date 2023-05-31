@@ -37,6 +37,8 @@ PostgresQL
 
 ###### Commands ######
 
+# Database name
+`hederastone`
 
 # create-svelte
 
